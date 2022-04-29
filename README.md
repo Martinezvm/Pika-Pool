@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pika-Pool
-- 👀 I’m interested in everything coding
-- 🌱 I’m currently learning react-native and golang
+- 👀 I’m interested in everything related to webtech
+- 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on a react project
 - 📫 How to reach me: just shoot an email at sriramiyer.dev@gmail.com
 
